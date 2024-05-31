@@ -6,7 +6,7 @@ This is a very simple (and not especially flexible) way to display text as if it
 */
 
 // Here's what it will type (made it multi-line for fun)
-let string = `© design by kilian`;
+let string = `© kilian`;
 // Which character in the string are we up to on the typewriter
 let currentCharacter = 0;
 
